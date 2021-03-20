@@ -132,7 +132,7 @@ img {
   border-radius: 50%;
   background-color: #fff9f8;
 }
-` .hero-btn {
+.hero-btn {
   display: inline-block;
   font-size: 13px;
   /* line-height: 5.53; */
